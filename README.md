@@ -1,6 +1,5 @@
 # DockerTest
 Testing docker trusted build process
 
-#some so sample
- 
-Sample
+#some sample title
+Sample test under some sample title
